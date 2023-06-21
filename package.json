@@ -1,0 +1,29 @@
+{
+  "name": "reflectiveui",
+  "description": "Özəlləşdirilə bilən interfeys kitabxanası.",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlickPlatform/reflective.git"
+  },
+  "keywords": [
+    "ui",
+    "react",
+    "vue"
+  ],
+  "author": "Flick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlickPlatform/reflective/issues"
+  },
+  "homepage": "https://github.com/FlickPlatform/reflective#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.13"
+  },
+}
