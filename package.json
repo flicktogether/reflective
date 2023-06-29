@@ -19,11 +19,5 @@
   "bugs": {
     "url": "https://github.com/FlickPlatform/reflective/issues"
   },
-  "homepage": "https://github.com/FlickPlatform/reflective#readme",
-  "dependencies": {
-    "react": "^18.2.0"
-  },
-  "devDependencies": {
-    "@types/react": "^18.2.13"
-  }
+  "homepage": "https://github.com/FlickPlatform/reflective#readme"
 }

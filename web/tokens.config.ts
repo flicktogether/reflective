@@ -8,12 +8,13 @@ export default defineTheme({
             600: '#981427',
         }
     },
-    prose: {
-        h1: {
-            'fontFamily': 'Geologica'
+    typography: {
+        font: {
+            body: 'Geologica',
+            code: 'Fira Code',
         }
     },
-    typography: {
-        fontFamily: 'Geologica'
+    font: {
+        mono: 'Fira Code'
     }
 })
