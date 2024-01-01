@@ -1,6 +1,2 @@
-# **Reflective UI —** özəlləşdirilə bilən interfeys kitabxanası.
-
-## **Resurslar**
-
-- [Rəsmi veb-sayt](https://reflectiveui.dev)
-- [Figma təqdimatı](https://www.figma.com/file/CBCUUVAEmrELlSptB59PLJ/Kitabxana?type=design&node-id=4%3A4&t=n81YoA1eVgbjAah9-1)
+# Reflective UI
+The neubrutalist UI library reflecting the beauty.
